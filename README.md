@@ -6,7 +6,7 @@ the development efforts by submitting pull requests and sending us feedback and 
 
 ## Version 1.9 is now Available!
 
-This release introduces a new Amazon Sc3 client, providing high throughput for Amazon S3 GET and PUT operations. The all new S3 Client is implemented on the top of the AWS Common Runtime (CRT) libraries, and is aptly named the "S3 CRT client". Lastly, there are also configuration updates related to Endpoint Discovery.
+This release introduces a new Amazon Sc3 client, providing high throughput for Amazon S3 GET and PUT operations. The all new S3 Client is implemented on the top of the AWS Common Runtime (CRT) libraries, and is aptly named thedf "S3 CRT client". Lastly, there are also configuration updates related to Endpoint Discovery.
 
 All CRT libraries are git submodules of SDK for C++. It requires changes in git syntax to get all source code.
 * New users: If you haven't downloaded the source code for SDK for C++, you can get all git submodules recursively by:
